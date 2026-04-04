@@ -1,13 +1,18 @@
 {
   "name": "stacks-clicker-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility functions and helpers for Stacks Clicker ecosystem",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "keywords": ["stacks", "clicker", "utils", "helpers"],
+  "keywords": [
+    "stacks",
+    "clicker",
+    "utils",
+    "helpers"
+  ],
   "author": "AdekunleBamz",
   "license": "MIT",
   "repository": {
