@@ -1,6 +1,6 @@
 {
   "name": "stacks-clicker-utils",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Utility functions and helpers for Stacks Clicker ecosystem",
   "main": "index.js",
   "types": "index.d.ts",
@@ -17,12 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdekunleBamz/stacks-clicker.git"
+    "url": "git+https://github.com/AK-Bit-Lab/stacks-clicker-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/AdekunleBamz/stacks-clicker/issues"
+    "url": "https://github.com/AK-Bit-Lab/stacks-clicker-utils/issues"
   },
-  "homepage": "https://github.com/AdekunleBamz/stacks-clicker#readme",
+  "homepage": "https://github.com/AK-Bit-Lab/stacks-clicker-utils#readme",
   "publishConfig": {
     "access": "public"
   }
